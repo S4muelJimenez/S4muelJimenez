@@ -8,5 +8,5 @@
 <summary>📊&nbsp;&nbsp;&nbsp;<b>GitHub Statistics</b></summary>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=S4muelJimenez&show_icons=true&count_private=true&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Stats/Statistics" align="top"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahirfiquitiva&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Top or Most Used Languages" align="top"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4muelJimenez&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Top or Most Used Languages" align="top"/>
 </details>

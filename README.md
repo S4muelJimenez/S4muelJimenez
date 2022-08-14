@@ -1,5 +1,5 @@
 
-<img align='right' src='https://gist.githubusercontent.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif' width='400'>
+<img align='right' src='https://gist.githubusercontent.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f/raw/2c15614ff01ff7518bcd6da526939644c8324e11/octocat.gif' width='350'>
 
 👋 &nbsp;Hello, world! <br/> I am Samuel Jiménez
 ======

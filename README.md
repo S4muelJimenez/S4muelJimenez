@@ -17,8 +17,8 @@ from Colombia
 
 **You can find me on:** </br>
 
-<a href="https://www.linkedin.com/in/samuel-jj/"><img src="https://img.shields.io/badge/website-%233867D6.svg?&style=for-the-badge" height=25></a>
-<a href="https://www.linkedin.com/in/samuel-jj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com//"><img src="https://img.shields.io/badge/website-%233867D6.svg?&style=for-the-badge" height=25></a>
+<a href="https://www.linkedin.com//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 
 
